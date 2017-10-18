@@ -74,3 +74,6 @@ gulp.task('watch', function() {
   gulp.watch(watchScss, ['sass']);
 
 });
+
+
+// checking git
